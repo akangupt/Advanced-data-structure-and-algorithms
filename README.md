@@ -1,4 +1,4 @@
-# advanced-data-structure-and-algorithms
+# Advanced data structures and algorithms
 
 Assignment_1 : Bubble sort, Insertion sort, Rank sort and Selection sort.
 
